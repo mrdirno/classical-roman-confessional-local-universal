@@ -1,0 +1,160 @@
+{
+  "book_id": "classical_roman_confessional_local_universal",
+  "title": "The Augur's Shadow",
+  "tagline": "A retired Roman magistrate must confront the household gods of his past to save his family from a curse that whispers from the Capitoline darkness.",
+  "target_words": 70000,
+  "actual_words": 77137,
+  "status": "SEED",
+  "license": "CC0",
+  "themes": [
+    "The Burden of Inherited Piety",
+    "Justice as a Blunt Instrument",
+    "Domestic Gods vs. State Religion",
+    "The Haunting of Civic Duty"
+  ],
+  "chapters": [
+    {
+      "ch": 1,
+      "title": "The Libation",
+      "words": 3200
+    },
+    {
+      "ch": 2,
+      "title": "The Client's Goose",
+      "words": 3100
+    },
+    {
+      "ch": 3,
+      "title": "The Doll and the Bulla",
+      "words": 2900
+    },
+    {
+      "ch": 4,
+      "title": "Aulus's Report",
+      "words": 3300
+    },
+    {
+      "ch": 5,
+      "title": "The Shadow-Man",
+      "words": 3100
+    },
+    {
+      "ch": 6,
+      "title": "Father's Library",
+      "words": 3500
+    },
+    {
+      "ch": 7,
+      "title": "The Temple Steps",
+      "words": 2900
+    },
+    {
+      "ch": 8,
+      "title": "A Warning in Entrails",
+      "words": 3400
+    },
+    {
+      "ch": 9,
+      "title": "Livia's Bargain",
+      "words": 3200
+    },
+    {
+      "ch": 10,
+      "title": "The Subura Tenement",
+      "words": 3300
+    },
+    {
+      "ch": 11,
+      "title": "Breath-Eater",
+      "words": 3100
+    },
+    {
+      "ch": 12,
+      "title": "The Broken Lararium",
+      "words": 2900
+    },
+    {
+      "ch": 13,
+      "title": "Senex in the Forum",
+      "words": 3500
+    },
+    {
+      "ch": 14,
+      "title": "The Old Augury",
+      "words": 3400
+    },
+    {
+      "ch": 15,
+      "title": "Blood on the Altar",
+      "words": 3200
+    },
+    {
+      "ch": 16,
+      "title": "The Pact Remembered",
+      "words": 3100
+    },
+    {
+      "ch": 17,
+      "title": "Into the Cella",
+      "words": 3600
+    },
+    {
+      "ch": 18,
+      "title": "The Voice at the Feet",
+      "words": 3300
+    },
+    {
+      "ch": 19,
+      "title": "Not a God, a Debt",
+      "words": 3400
+    },
+    {
+      "ch": 20,
+      "title": "The Household's Choice",
+      "words": 3200
+    },
+    {
+      "ch": 21,
+      "title": "Frayed Purple",
+      "words": 2900
+    },
+    {
+      "ch": 22,
+      "title": "Justice for the Dead",
+      "words": 3500
+    },
+    {
+      "ch": 23,
+      "title": "The Last Libation",
+      "words": 3400
+    },
+    {
+      "ch": 24,
+      "title": "The True Augur",
+      "words": 3100
+    }
+  ],
+  "entry_points": {
+    "story": [
+      "Write a scene where a modern character inherits a Roman household shrine (lararium) and begins experiencing the same cold dread and prophetic dreams as Marcus.",
+      "Create a side-story from the perspective of Aulus, the Greek secretary, documenting the 'case' of the shadow-man with clinical detachment that slowly breaks down.",
+      "Draft a chapter where Livia, the wife, takes the doll to a Vestal Virgin or a philosopher for a second opinion, navigating the different spheres of Roman belief.",
+      "Write a prequel chapter showing Marcus's father, the augur Gaius Fabius Strabo, performing the original ritual that incurred the debt."
+    ],
+    "technical": [
+      "Build an interactive map of Marcus's Rome, linking locations from the story (his house, the Subura, the Capitoline) with historical notes and textual excerpts.",
+      "Create a 'Codex of Curses' webpage that catalogs the ritual objects, prayers, and omens from the novel, comparing them to historical Roman practices."
+    ]
+  },
+  "origin": {
+    "methodology": "Council-Prism Generation",
+    "sasi_score": 8,
+    "council": [
+      "Marcus Aurelius",
+      "Fyodor Dostoevsky",
+      "Shirley Jackson",
+      "James Joyce"
+    ]
+  },
+  "cover_prompt": "An elderly Roman magistrate, his face etched with the deep lines of duty and dread, clutches a fractured household Lararium statuette as dark, whispering tendrils of shadow coil around his ankles and up the legs of his simple wooden chair, [Detailed Scene & Context: set in the austere, shadowy atrium of his own domus at night, where the once-orderly household shrine is now in disarray, with toppled incense burners and cracked terracotta figurines, while through the impluvium, a sliver of a sickly moon casts a pale light over the scene], [Artistic Style & Medium: in the atmospheric and psychologically charged style of Anselm Kiefer, with the textured, material weight of historical memory, rendered in thick, expressive oil paints and mixed media incorporating ash and clay], [Composition & Camera: book cover framing, a tight, centered composition that feels both intimate and monumental, shot from a low angle looking up at the tormented figure, emphasizing the oppressive weight of the towering, dark ceiling beams], [Lighting & Color Palette: dramatic chiaroscuro lighting with a single, stark light source from the moonlit impluvium, creating deep, long shadows that seem to move, color palette of burnt umber, bone white, tarnished gold, and profound, inky blacks with hints of sickly green], masterpiece, best quality, ultra detailed, intricate details, professional composition, sharp focus, 8k resolution, flux dev."
+}
