@@ -1,3 +1,5 @@
+# Chapter 1
+
 ## **CHAPTER 1**
 
 The marble was cool and unyielding against my forehead. A sacred chill, the kind that seeps into the bone and whispers of eternity. I was prostrate on the floor of the *lararium*, the household shrine, my nose pressed to a vein of grey in the white stone. Before me, the small bronze figures of the *lares*—the household gods—stood watch on their shelf, their faces blurred by generations of sacrificial smoke and the oily touch of devotion. I could smell the lingering ghost of last night’s incense, a dry, woody scent, undercut by the sharper tang of the wine I’d just tipped from my *patera* onto the altar. A libation for the dead. For one dead in particular.
@@ -149,6 +151,8 @@ I rose, my feet cold on the floor tiles. I walked to the chest. I reached for th
 From within the folds of cloth, faint but unmistakable, came the sound of a child’s whimper.
 
 ---
+
+# Chapter 2
 
 ## **CHAPTER 2**
 
@@ -339,6 +343,8 @@ For a moment, we just looked at each other, two rational men who had stumbled in
 “Then we go to the Forum,” Cassius said, handing me my cloak. “To the door of the dead.”
 
 ---
+
+# Chapter 3
 
 ## **CHAPTER 3**
 
